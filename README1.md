@@ -3,11 +3,10 @@
 
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-george" alt="deepak-george" /> </p>
-I am an undergraduate from IIIT, who is passionate about Data and intrigued with the science behind powerful data products. 🚀.
+Lead Data Scientist with 13 years of experience in developing & industrializing AI/ML products in production across various industries. Hands on technical lead with expertise in ML model development, MLOps, ML Solution Architecture, ML Microservice, Data & ML pipelines.
 <br/>
-Besides programming, I enjoy active sports, listening audiobooks and travelling.
+Besides data science, I enjoy sports, travelling and reading.
 <br>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width="400px" />
   
 **A bit about me:**
 
