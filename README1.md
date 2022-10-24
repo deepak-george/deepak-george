@@ -23,10 +23,10 @@ Besides data science, I enjoy sports, travelling and reading.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/deepak-george">	
-  <img align="center" alt="Deepak George | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
+  <img align="center" alt="Deepak George | LinkdeIn" width="25px" height="25" src="icons/icons8-linkedin.svg" />	 [//]: # (https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)
 </a>	
 <a href="https://www.kaggle.com/deepakgeorge">	
-  <img align="left" alt="Deepak George | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
+  <img align="left" alt="Deepak George | Kaggle" width="25px" height="25" src="icons/kaggle-ar21.svg" />	[//]: # (https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg)
 </a>	
 </p>
 <br>
