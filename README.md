@@ -1,9 +1,7 @@
 ### Hi 👋, I'm Deepak George
 
 Lead Data Scientist with 13 years of experience in developing & industrializing AI/ML products in production across various industries. Hands on technical lead with expertise in ML model development, MLOps, ML Solution Architecture, ML Microservice, Data & ML pipelines.
-<br/>
 Besides data science, I enjoy sports, travelling and reading.
-<br>
   
 **A bit about me:**
 
@@ -23,6 +21,3 @@ Besides data science, I enjoy sports, travelling and reading.
   <img align="left" alt="Deepak George | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>	
 </p>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-george" alt="deepak-george" /> </p>
