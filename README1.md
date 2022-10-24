@@ -9,13 +9,12 @@ Besides data science, I enjoy sports, travelling and reading.
 **A bit about me:**
 
 - 🔭 I’m currently working on automating insurance underwriting by developing & industrializing AI/ML products at scale.
-- 🌱 I’m currently learning how to lead great teams and become a great leader!
-- 🤔 I’m looking for help with **learning new stuff!**
+- 🌱 I’m currently doing Acturial Data Science Program @Institute of Actuaries Belgium !
 - 👨‍💻 Anything about me is available at **[my website](https://deepak-george.github.io/)**.
 - 📝 I write articles on **[my website](https://deepak-george.github.io/posts/)**.
 - 💬 Ask me about  Data Science / MLOps / Machine Learning Engineering
 - 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/deepakgeorge7/)
-- ⚡ Fun fact **I play Table Tennis and love cubing!**
+- ⚡ Fun fact **I started coding at the age of 7!**
 
 <br>
 <p align="center">
