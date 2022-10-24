@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak George</h1>
+### Hi 👋, I'm Deepak George
 <h4 align="center">Lead Data Scientist @Allianz Netherlands ● <br>Guest Lecturer ● Kaggle Medal Winner <br>IIM B</h4>
 
 <br />
