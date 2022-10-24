@@ -8,36 +8,30 @@ Besides data science, I enjoy sports, travelling and reading.
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Student Volunteer @ KaggleDays**.
-- 👯 I’m looking to collaborate on **Data Science Projects**.
+- 🔭 I’m currently working on automating insurance underwriting by developing & industrializing AI/ML products at scale.
+- 🌱 I’m currently learning how to lead great teams and become a great leader!
 - 🤔 I’m looking for help with **learning new stuff!**
-- 👨‍💻 Anything about me is available at **[my website](https://blurred-machine.github.io/)**.
-- 📝 I write articles at **[my medium](https://medium.com/@blurred-machine)**.
+- 👨‍💻 Anything about me is available at **[my website](https://deepak-george.github.io/)**.
+- 📝 I write articles at **[my medium](https://medium.com/@deepak-george)**.
 - 💬 Ask me about **anything you feel like!**
 - 📫 Reach out to me at **blurredmachine@gmail.com**
 - ⚡ Fun fact **I play Table Tennis and love cubing!**
 
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=blurred-machine&show_icons=true" alt="blurred-machine"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deepak-george&show_icons=true" alt="deepak-george"/>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/blurred-machine">	
-  <img align="center" alt="Paras Varshney | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
+<a href="https://www.linkedin.com/in/deepak-george">	
+  <img align="center" alt="Deepak George | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
 </a>	
-<a href="https://medium.com/@blurred-machine">	
-  <img align="center" alt="Paras Varshney | Medium" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />	
+<a href="https://medium.com/@deepak-george">	
+  <img align="center" alt="Deepak George | Medium" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />	
 </a>	
-<a href="https://www.kaggle.com/blurredmachine">	
-  <img align="center" alt="Paras Varshney | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
+<a href="https://www.kaggle.com/deepakgeorge">	
+  <img align="center" alt="Deepak George | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
 </a>	
-<a href="https://twitter.com/blurred_machine">	
-  <img align="center" alt="Paras Varshney | Twitter" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />	
-</a>	
-<a href="https://www.instagram.com/blurred_machine">	
-  <img align="center" alt="Paras Varshney | Instagram" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
-</a>  
 </p>
 <br>
 
