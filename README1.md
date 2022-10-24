@@ -2,7 +2,7 @@
 <h4 align="left">Lead Data Scientist @Allianz Netherlands ● Guest Lecturer ● Kaggle Medal Winner ● IIM B</h4>
 
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine" alt="blurred-machine" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-george" alt="deepak-george" /> </p>
 I am an undergraduate from IIIT, who is passionate about Data and intrigued with the science behind powerful data products. 🚀.
 <br/>
 Besides programming, I enjoy active sports, listening audiobooks and travelling.
