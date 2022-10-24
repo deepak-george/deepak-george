@@ -1,8 +1,6 @@
 ### Hi 👋, I'm Deepak George
 <h4 align="left">Lead Data Scientist @Allianz Netherlands ● Guest Lecturer ● Kaggle Medal Winner ● IIM B</h4>
 
-<br />
-
 Lead Data Scientist with 13 years of experience in developing & industrializing AI/ML products in production across various industries. Hands on technical lead with expertise in ML model development, MLOps, ML Solution Architecture, ML Microservice, Data & ML pipelines.
 <br/>
 Besides data science, I enjoy sports, travelling and reading.
