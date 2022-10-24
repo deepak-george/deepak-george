@@ -12,9 +12,9 @@ Besides data science, I enjoy sports, travelling and reading.
 - 🌱 I’m currently learning how to lead great teams and become a great leader!
 - 🤔 I’m looking for help with **learning new stuff!**
 - 👨‍💻 Anything about me is available at **[my website](https://deepak-george.github.io/)**.
-- 📝 I write articles at **[my medium](https://medium.com/@deepak-george)**.
-- 💬 Ask me about **anything you feel like!**
-- 📫 Reach out to me at **blurredmachine@gmail.com**
+- 📝 I write articles on **[my website](https://deepak-george.github.io/posts/)**.
+- 💬 Ask me about  Data Science / MLOps / Machine Learning Engineering
+- 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/deepakgeorge7/)
 - ⚡ Fun fact **I play Table Tennis and love cubing!**
 
 <br>
@@ -25,9 +25,6 @@ Besides data science, I enjoy sports, travelling and reading.
 <p align="center">
 <a href="https://www.linkedin.com/in/deepak-george">	
   <img align="center" alt="Deepak George | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
-</a>	
-<a href="https://medium.com/@deepak-george">	
-  <img align="center" alt="Deepak George | Medium" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />	
 </a>	
 <a href="https://www.kaggle.com/deepakgeorge">	
   <img align="center" alt="Deepak George | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
