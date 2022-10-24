@@ -31,12 +31,4 @@ Besides data science, I enjoy sports, travelling and reading.
 </p>
 <br>
 
-<p align="left">
-You have finally discovered my Github profile, so let's get connected!
-<br/>
-Please feel free to clone projects and raise issues if you think something could be better.
-<br/>
-Happy Coding!!
-</p>  
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-george" alt="deepak-george" /> </p>
