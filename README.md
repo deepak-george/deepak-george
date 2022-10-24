@@ -15,11 +15,6 @@ Besides data science, I enjoy sports, travelling and reading.
 - 📝 I write articles on **[my website](https://deepak-george.github.io/posts/)**
 - ⚡ Fun fact I started coding at the age of 7!
 
-<br>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=deepak-george&show_icons=true" alt="deepak-george"/>
-</p>
-
 <p align="left">
 <a href="https://www.linkedin.com/in/deepakgeorge7">	
   <img align="center" alt="Deepak George | LinkdeIn" width="25px" height="25" src="icons/icons8-linkedin.svg" />
