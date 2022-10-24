@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Deepak George
-<h4 align="left">Lead Data Scientist @Allianz Netherlands ● <br>Guest Lecturer ● Kaggle Medal Winner <br>IIM B</h4>
+<h4 align="left">Lead Data Scientist @Allianz Netherlands <br>● Guest Lecturer<br> <br>● Kaggle Medal Winner <br>IIM B</h4>
 
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine" alt="blurred-machine" /> </p>
