@@ -17,21 +17,21 @@ Besides data science, I enjoy sports, travelling and reading.
 - ⚡ Fun fact I started coding at the age of 7!
 
 <br>
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=deepak-george&show_icons=true" alt="deepak-george"/>
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/deepak-george">	
   <img align="center" alt="Deepak George | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
 </a>	
 <a href="https://www.kaggle.com/deepakgeorge">	
-  <img align="center" alt="Deepak George | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
+  <img align="left" alt="Deepak George | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
 </a>	
 </p>
 <br>
 
-<p align="center">
+<p align="left">
 You have finally discovered my Github profile, so let's get connected!
 <br/>
 Please feel free to clone projects and raise issues if you think something could be better.
