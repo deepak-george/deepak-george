@@ -9,7 +9,7 @@ Besides data science, I enjoy sports, travelling and reading.
 **A bit about me:**
 
 - 🔭 I’m currently working on automating insurance underwriting by developing & industrializing AI/ML products at scale.
-- 🌱 I’m currently doing Acturial Data Science Program @Institute of Actuaries Belgium !
+- 🌱 I’m currently doing Acturial Data Science Program @Institute of Actuaries Belgium (2022-2023) !
 - 👨‍💻 Anything about me is available at **[deepak-george.github.io](https://deepak-george.github.io/)**
 - 📝 I write articles on **[my website](https://deepak-george.github.io/posts/)**
 - 💬 Ask me about  Data Science / MLOps / Machine Learning Engineering
