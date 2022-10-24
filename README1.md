@@ -13,7 +13,7 @@ Besides data science, I enjoy sports, travelling and reading.
 - 👨‍💻 Anything about me is available at **[deepak-george.github.io](https://deepak-george.github.io/)**
 - 📝 I write articles on **[my website](https://deepak-george.github.io/posts/)**
 - 💬 Ask me about  Data Science / MLOps / Machine Learning Engineering
-- 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/deepakgeorge7/)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/deepakgeorge7/)
 - ⚡ Fun fact I started coding at the age of 7!
 
 <br>
