@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Deepak George
 
 Lead Data Scientist with 13 years of experience in developing & industrializing AI/ML products in production across various industries. Hands on technical lead with expertise in ML model development, MLOps, ML Solution Architecture, ML Microservice, Data & ML pipelines.
-Besides data science, I enjoy sports, travelling and reading.
+Besides data science, I enjoy sports, travelling, reading and kaggling.
   
 **A bit about me:**
 
